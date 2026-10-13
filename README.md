@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:6d28d9&height=220&section=header&text=Mahmoud%20El%20Aaouadi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Cybersecurity%20Engineer%20%E2%80%A2%20Network%20Security%20%E2%80%A2%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:6d28d9&height=220&section=header&text=Mahmoud%20El%20Aaouadi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Cybersecurity%20Engineer%20%E2%80%A2%20Network%20Security%20%E2%80%A2%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/L3wina-debug">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Master's+Student+in+AI+%26+Cybersecurity;Network+Security+%E2%80%A2+Python+Automation;Applied+Cryptography+%E2%80%A2+Secure+Systems;Open+to+a+6-month+PFE+internship+%E2%80%94+Feb+2027" alt="Typing SVG"/>
@@ -348,7 +348,7 @@ Supported server and network operations for a national public utility.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=L3wina-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=L3wina-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -358,7 +358,7 @@ Supported server and network operations for a national public utility.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L3wina-debug&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://ghchart.rshah.org/7c3aed/L3wina-debug" alt="Contribution chart" width="100%"/>
 
 </div>
 
